@@ -1,7 +1,5 @@
 const mongoose = require("mongoose");
-const mongoURI =
-  "mongodb://adityarns21:aditya21@ac-rz6gnt3-shard-00-00.jyezo33.mongodb.net:27017,ac-rz6gnt3-shard-00-01.jyezo33.mongodb.net:27017,ac-rz6gnt3-shard-00-02.jyezo33.mongodb.net:27017/goFoodmern?ssl=true&replicaSet=atlas-hnquko-shard-0&authSource=admin&retryWrites=true&w=majority";
-
+const mongoURI = 'mongodb+srv://Anni:aniket123@cluster0.fsvangn.mongodb.net/gofoodmern?retryWrites=true&w=majority'
 module.exports = function (callback) {
   mongoose
     .connect(mongoURI, { useNewUrlParser: true, useUnifiedTopology: true })
