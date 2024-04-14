@@ -18,14 +18,19 @@ Technologies Used
 Frontend:
 
 React.js: Leveraged to build an intuitive and responsive user interface.
+
 Bootstrap: Utilized for styling and creating a visually appealing design.
+
 JSX: Employed for seamless integration of HTML within JavaScript.
 
 Backend:            
 
 Node.js: Used for server-side scripting and handling backend operations.
+
 Express.js: Implemented to simplify the development of the backend.
+
 MongoDB: Chosen as the database to store and manage application data.
+
 Mongoose: An ODM (Object Data Modeling) library for MongoDB, optimizing database operations.
 
 Payment Integration:
