@@ -38,6 +38,6 @@ Mongoose: An ODM (Object Data Modeling) library for MongoDB, optimizing database
 Stripe API: Integrated for secure and efficient online payment processing.
 
 ## Architecture
-Localbites2023 focuses on the Single Page Application (SPA) architecture, ensuring a smooth and engaging user experience by eliminating page reloads and providing a more dynamic interface.
+Localbites 2023 focuses on the Single Page Application (SPA) architecture, ensuring a smooth and engaging user experience by eliminating page reloads and providing a more dynamic interface.
 
 
